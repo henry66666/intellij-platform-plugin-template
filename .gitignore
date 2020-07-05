@@ -1,3 +1,5 @@
 .gradle
 .idea
 build
+intellij-platform-plugin-template.iml
+local.properties
